@@ -2,7 +2,7 @@
 
 [![LICENSE](https://img.shields.io/badge/LICENSE-GPL--3.0-green)](https://github.com/mahdizandi/SMS_Serial_Verification-Public/blob/main/LICENSE) 
 [![Requirements](https://img.shields.io/badge/Requirements-See%20Here-orange)](https://github.com/MahdiZandi/SMS_Serial_Verification-Public/blob/main/requirements.txt)
-[![Todo](https://img.shields.io/badge/Todo-See%20Here-success)](https://github.com//SMS_Serial_Verification-Public/blob/main/TODO.md)
+[![Todo](https://img.shields.io/badge/Todo-See%20Here-success)](https://github.com/MahdiZandi/SMS_Serial_Verification-Public/blob/main/TODO.md)
 
 This project is done for Altech (Schneider Electric Iran) as an educational series. 
 
