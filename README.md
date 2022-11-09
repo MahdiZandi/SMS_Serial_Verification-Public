@@ -1,5 +1,5 @@
 # sms_verification
-https://github.com/MahdiZandi/SMS_Serial_Verification-Public/blob/main/requirements.txt
+
 [![LICENSE](https://img.shields.io/badge/LICENSE-GPL--3.0-green)](https://github.com/mahdizandi/sms_serial_verification/blob/master/LICENSE) 
 [![Requirements](https://img.shields.io/badge/Requirements-See%20Here-orange)]
 (https://github.com/MahdiZandi/SMS_Serial_Verification-Public/blob/main/requirements.txt)
