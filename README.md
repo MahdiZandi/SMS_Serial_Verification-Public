@@ -11,7 +11,7 @@ This project is done for Altech (Schneider Electric Iran) as an educational seri
 
 - پایتون
 - فلسک
-- ای پی آی های دریافت و ارسال اسمس از درگاه پیامک کاوه نگار
+- ای پی آی های دریافت و ارسال اس ام اس از درگاه پیامک کاوه نگار
 - پاس فندق
 - مای اسکوئل
 
