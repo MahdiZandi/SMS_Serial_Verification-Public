@@ -1,8 +1,8 @@
 # sms_verification
 
-[![LICENSE](https://img.shields.io/badge/LICENSE-GPL--3.0-green)](https://github.com/jadijadi/sms_serial_verification/blob/master/LICENSE) 
-[![Requirements](https://img.shields.io/badge/Requirements-See%20Here-orange)](https://github.com/jadijadi/sms_serial_verification/blob/master/requirements.txt)
-[![Todo](https://img.shields.io/badge/Todo-See%20Here-success)](https://github.com/jadijadi/sms_serial_verification/blob/master/TODO.md)
+[![LICENSE](https://img.shields.io/badge/LICENSE-GPL--3.0-green)](https://github.com/mahdizandi/sms_serial_verification/blob/master/LICENSE) 
+[![Requirements](https://img.shields.io/badge/Requirements-See%20Here-orange)](https://github.com/mahdizandi/sms_serial_verification/blob/master/requirements.txt)
+[![Todo](https://img.shields.io/badge/Todo-See%20Here-success)](https://github.com//sms_serial_verification/blob/master/TODO.md)
 
 This project is done for Altech (Schneider Electric Iran) as an educational series. 
 
@@ -22,7 +22,7 @@ Every single step of this project is screen captures and you can follow them [On
 
 ## How to run
 1. Install python3, pip3, virtualenv, MySQL in your system.
-2. Clone the project `git clone https://github.com/jadijadi/sms_serial_verification && cd sms_serial_verification`
+2. Clone the project `git clone hhttps://github.com/MahdiZandi/SMS_Serial_Verification-Public.git`
 3. in the app folder, rename the `config.py.sample` to `config.py` and do proper changes.
 4. db configs are in config.py. Create the db and grant all access to the specified user with specified password.
 5. Create a virtualenv named venv using `virtualenv -p python3 venv`
